@@ -34,3 +34,7 @@ Thanks, I'm Aaron Titus
 ![I'm Aaron Titus](https://media.licdn.com/dms/image/C4E03AQEPeerO0GAqEw/profile-displayphoto-shrink_800_800/0/1517756406872?e=2147483647&v=beta&t=dRB5jRMMBM7TzJryVKMcQ3VDLoP5jNCeGQ3zEmXqCb4)
 
 [Keep your internet safe](securitycatalyst.com)
+
+this theory file has been reviewed by [Rusu Onisim](https://github.com/RusuOnisim)
+
+![reviewed](https://media.tenor.com/ImDoe8QCn_4AAAAC/spongebob-nice.gif)
