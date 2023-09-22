@@ -37,4 +37,4 @@ Thanks, I'm Aaron Titus
 
 this theory file has been reviewed by [Rusu Onisim](https://github.com/RusuOnisim)
 
-!(reviewed)[https://media.tenor.com/ImDoe8QCn_4AAAAC/spongebob-nice.gif]
+![reviewed](https://media.tenor.com/ImDoe8QCn_4AAAAC/spongebob-nice.gif)
